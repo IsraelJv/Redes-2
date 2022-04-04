@@ -1,0 +1,1 @@
+## En este programa hay que empaquetarlo para que pueda reconocer la clase Persona. Se probó utilizando netbeans.
